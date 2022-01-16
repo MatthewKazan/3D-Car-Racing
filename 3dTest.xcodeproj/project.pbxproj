@@ -51,6 +51,7 @@
 		222C858125C343960082E624 /* 21 Forsyth St.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "21 Forsyth St.m4a"; sourceTree = "<group>"; };
 		227CDDC92793E183002EED48 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		227CDDCB2793E5EF002EED48 /* IMG_0105.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0105.PNG; sourceTree = "<group>"; };
+		227CDDCC2793E6E5002EED48 /* IMG_0107.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0107.jpeg; sourceTree = "<group>"; };
 		229AD3B22472FE2700B0FADB /* 3dTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 3dTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		229AD3B52472FE2700B0FADB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		229AD3B72472FE2700B0FADB /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -93,8 +94,9 @@
 		229AD3A92472FE2700B0FADB = {
 			isa = PBXGroup;
 			children = (
-				227CDDC92793E183002EED48 /* README.md */,
 				227CDDCB2793E5EF002EED48 /* IMG_0105.PNG */,
+				227CDDCC2793E6E5002EED48 /* IMG_0107.jpeg */,
+				227CDDC92793E183002EED48 /* README.md */,
 				222C857925C342B20082E624 /* engine.mp3 */,
 				222C858125C343960082E624 /* 21 Forsyth St.m4a */,
 				229AD3B42472FE2700B0FADB /* 3dTest */,
