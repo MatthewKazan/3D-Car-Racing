@@ -6,7 +6,7 @@ Built to better learn Swift and its various libraries while still a novice progr
  
  Initial goal of creating 4 tracks was not reached.
  
- <img src="./IMG_0107.JPeg" align="left" width="500px"/>
+ <img src="./IMG_0107.jpeg" align="left" width="500px"/>
  
  Players can drive forward, backward, break and use a jet for an added boost in whatever direction they are going. Steering is done using the devices accelerometer. Position of every block that makes up each track determined with 3 dimentional position function and the arctan of its partial derivatives for the rotation.
 
