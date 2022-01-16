@@ -2,7 +2,7 @@
 
 Built to better learn Swift and its various libraries while still a novice programmer. Based off of the iOS app Jet Car Stunts my version is a beginners attempt at figuring out how that game worked. Uses calculus to programmatically create the tracks.
 
-<img src="./3dTest/art/IMG_0105" align="left" width="500px"/>
+<img src="3dTest/art.scnassets/IMG_0105" align="left" width="500px"/>
  
  Initial goal of creating 4 tracks was not reached.
  
