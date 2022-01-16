@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		222C854225C33B450082E624 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222C853E25C33B440082E624 /* Menu.swift */; };
 		222C854325C33B450082E624 /* music.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222C853F25C33B440082E624 /* music.swift */; };
 		222C854425C33B450082E624 /* Overlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222C854025C33B440082E624 /* Overlay.swift */; };
 		222C854525C33B450082E624 /* Road.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222C854125C33B440082E624 /* Road.swift */; };
@@ -42,7 +41,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		222C853E25C33B440082E624 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = "../../3d racing game/3d racing game/Menu.swift"; sourceTree = "<group>"; };
 		222C853F25C33B440082E624 /* music.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = music.swift; path = "../../3d racing game/3d racing game/music.swift"; sourceTree = "<group>"; };
 		222C854025C33B440082E624 /* Overlay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Overlay.swift; path = "../../3d racing game/3d racing game/Overlay.swift"; sourceTree = "<group>"; };
 		222C854125C33B440082E624 /* Road.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Road.swift; path = "../../3d racing game/3d racing game/Road.swift"; sourceTree = "<group>"; };
@@ -51,6 +49,7 @@
 		222C856725C33D110082E624 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../../3d racing game/3d racing game/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		222C857925C342B20082E624 /* engine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = engine.mp3; sourceTree = "<group>"; };
 		222C858125C343960082E624 /* 21 Forsyth St.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "21 Forsyth St.m4a"; sourceTree = "<group>"; };
+		227CDDC92793E183002EED48 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		229AD3B22472FE2700B0FADB /* 3dTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 3dTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		229AD3B52472FE2700B0FADB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		229AD3B72472FE2700B0FADB /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -93,6 +92,7 @@
 		229AD3A92472FE2700B0FADB = {
 			isa = PBXGroup;
 			children = (
+				227CDDC92793E183002EED48 /* README.md */,
 				222C857925C342B20082E624 /* engine.mp3 */,
 				222C858125C343960082E624 /* 21 Forsyth St.m4a */,
 				229AD3B42472FE2700B0FADB /* 3dTest */,
@@ -118,7 +118,6 @@
 				229AD3B52472FE2700B0FADB /* AppDelegate.swift */,
 				229AD3B72472FE2700B0FADB /* art.scnassets */,
 				229AD3B92472FE2700B0FADB /* GameViewController.swift */,
-				222C853E25C33B440082E624 /* Menu.swift */,
 				222C853F25C33B440082E624 /* music.swift */,
 				222C854025C33B440082E624 /* Overlay.swift */,
 				222C854125C33B440082E624 /* Road.swift */,
@@ -284,7 +283,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				222C854225C33B450082E624 /* Menu.swift in Sources */,
 				229AD3BA2472FE2700B0FADB /* GameViewController.swift in Sources */,
 				222C854425C33B450082E624 /* Overlay.swift in Sources */,
 				222C854525C33B450082E624 /* Road.swift in Sources */,
